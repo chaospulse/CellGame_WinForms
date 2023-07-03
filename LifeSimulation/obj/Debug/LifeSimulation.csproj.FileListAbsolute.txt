@@ -1,0 +1,12 @@
+D:\Rider\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe.config
+D:\Rider\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe
+D:\Rider\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.pdb
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.AssemblyReference.cache
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.SuggestedBindingRedirects.cache
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Properties.Resources.resources
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.GenerateResource.cache
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.CoreCompileInputs.cache
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.exe
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.pdb
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Form1.resources
+D:\Rider\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Form2.resources
